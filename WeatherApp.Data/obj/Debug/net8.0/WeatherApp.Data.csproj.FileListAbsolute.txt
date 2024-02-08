@@ -1,0 +1,15 @@
+D:\Code\.net\WeatherApp\WeatherApp.Data\bin\Debug\net8.0\WeatherApp.Data.deps.json
+D:\Code\.net\WeatherApp\WeatherApp.Data\bin\Debug\net8.0\WeatherApp.Data.dll
+D:\Code\.net\WeatherApp\WeatherApp.Data\bin\Debug\net8.0\WeatherApp.Data.pdb
+D:\Code\.net\WeatherApp\WeatherApp.Data\bin\Debug\net8.0\WeatherApp.Model.dll
+D:\Code\.net\WeatherApp\WeatherApp.Data\bin\Debug\net8.0\WeatherApp.Model.pdb
+D:\Code\.net\WeatherApp\WeatherApp.Data\obj\Debug\net8.0\WeatherApp.Data.csproj.AssemblyReference.cache
+D:\Code\.net\WeatherApp\WeatherApp.Data\obj\Debug\net8.0\WeatherApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.net\WeatherApp\WeatherApp.Data\obj\Debug\net8.0\WeatherApp.Data.AssemblyInfoInputs.cache
+D:\Code\.net\WeatherApp\WeatherApp.Data\obj\Debug\net8.0\WeatherApp.Data.AssemblyInfo.cs
+D:\Code\.net\WeatherApp\WeatherApp.Data\obj\Debug\net8.0\WeatherApp.Data.csproj.CoreCompileInputs.cache
+D:\Code\.net\WeatherApp\WeatherApp.Data\obj\Debug\net8.0\WeatherApp.Data.csproj.CopyComplete
+D:\Code\.net\WeatherApp\WeatherApp.Data\obj\Debug\net8.0\WeatherApp.Data.dll
+D:\Code\.net\WeatherApp\WeatherApp.Data\obj\Debug\net8.0\refint\WeatherApp.Data.dll
+D:\Code\.net\WeatherApp\WeatherApp.Data\obj\Debug\net8.0\WeatherApp.Data.pdb
+D:\Code\.net\WeatherApp\WeatherApp.Data\obj\Debug\net8.0\ref\WeatherApp.Data.dll

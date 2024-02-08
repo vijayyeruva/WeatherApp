@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WeatherApp.Business/1.0.0": {
+        "dependencies": {
+          "WeatherApp.Data": "1.0.0",
+          "WeatherApp.Model": "1.0.0"
+        },
+        "runtime": {
+          "WeatherApp.Business.dll": {}
+        }
+      },
+      "WeatherApp.Data/1.0.0": {
+        "dependencies": {
+          "WeatherApp.Model": "1.0.0"
+        },
+        "runtime": {
+          "WeatherApp.Data.dll": {}
+        }
+      },
+      "WeatherApp.Model/1.0.0": {
+        "runtime": {
+          "WeatherApp.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherApp.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherApp.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WeatherApp.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

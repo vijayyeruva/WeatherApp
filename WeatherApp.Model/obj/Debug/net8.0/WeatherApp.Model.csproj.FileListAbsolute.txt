@@ -1,0 +1,11 @@
+D:\Code\.net\WeatherApp\WeatherApp.Model\bin\Debug\net8.0\WeatherApp.Model.deps.json
+D:\Code\.net\WeatherApp\WeatherApp.Model\bin\Debug\net8.0\WeatherApp.Model.dll
+D:\Code\.net\WeatherApp\WeatherApp.Model\bin\Debug\net8.0\WeatherApp.Model.pdb
+D:\Code\.net\WeatherApp\WeatherApp.Model\obj\Debug\net8.0\WeatherApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.net\WeatherApp\WeatherApp.Model\obj\Debug\net8.0\WeatherApp.Model.AssemblyInfoInputs.cache
+D:\Code\.net\WeatherApp\WeatherApp.Model\obj\Debug\net8.0\WeatherApp.Model.AssemblyInfo.cs
+D:\Code\.net\WeatherApp\WeatherApp.Model\obj\Debug\net8.0\WeatherApp.Model.csproj.CoreCompileInputs.cache
+D:\Code\.net\WeatherApp\WeatherApp.Model\obj\Debug\net8.0\WeatherApp.Model.dll
+D:\Code\.net\WeatherApp\WeatherApp.Model\obj\Debug\net8.0\refint\WeatherApp.Model.dll
+D:\Code\.net\WeatherApp\WeatherApp.Model\obj\Debug\net8.0\WeatherApp.Model.pdb
+D:\Code\.net\WeatherApp\WeatherApp.Model\obj\Debug\net8.0\ref\WeatherApp.Model.dll

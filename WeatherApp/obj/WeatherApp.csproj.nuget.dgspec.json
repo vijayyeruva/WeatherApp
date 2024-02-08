@@ -1,0 +1,259 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\.net\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\.net\\WeatherApp\\WeatherApp.Business\\WeatherApp.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Business\\WeatherApp.Business.csproj",
+        "projectName": "WeatherApp.Business",
+        "projectPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Business\\WeatherApp.Business.csproj",
+        "packagesPath": "C:\\Users\\Vijay Yeruva\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vijay Yeruva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Code\\.net\\WeatherApp\\WeatherApp.Data\\WeatherApp.Data.csproj": {
+                "projectPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Data\\WeatherApp.Data.csproj"
+              },
+              "D:\\Code\\.net\\WeatherApp\\WeatherApp.Model\\WeatherApp.Model.csproj": {
+                "projectPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Model\\WeatherApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\.net\\WeatherApp\\WeatherApp.Data\\WeatherApp.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Data\\WeatherApp.Data.csproj",
+        "projectName": "WeatherApp.Data",
+        "projectPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Data\\WeatherApp.Data.csproj",
+        "packagesPath": "C:\\Users\\Vijay Yeruva\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vijay Yeruva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Code\\.net\\WeatherApp\\WeatherApp.Model\\WeatherApp.Model.csproj": {
+                "projectPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Model\\WeatherApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\.net\\WeatherApp\\WeatherApp.Model\\WeatherApp.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Model\\WeatherApp.Model.csproj",
+        "projectName": "WeatherApp.Model",
+        "projectPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Model\\WeatherApp.Model.csproj",
+        "packagesPath": "C:\\Users\\Vijay Yeruva\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vijay Yeruva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Code\\.net\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\.net\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+        "projectName": "WeatherApp",
+        "projectPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+        "packagesPath": "C:\\Users\\Vijay Yeruva\\.nuget\\packages\\",
+        "outputPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Vijay Yeruva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Code\\.net\\WeatherApp\\WeatherApp.Business\\WeatherApp.Business.csproj": {
+                "projectPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Business\\WeatherApp.Business.csproj"
+              },
+              "D:\\Code\\.net\\WeatherApp\\WeatherApp.Data\\WeatherApp.Data.csproj": {
+                "projectPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Data\\WeatherApp.Data.csproj"
+              },
+              "D:\\Code\\.net\\WeatherApp\\WeatherApp.Model\\WeatherApp.Model.csproj": {
+                "projectPath": "D:\\Code\\.net\\WeatherApp\\WeatherApp.Model\\WeatherApp.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
